@@ -300,7 +300,7 @@ const Submenu = ({
             </li>
           </Link>
           <Link to="/beans/eyunnan">
-            <li className="hover-ey border-r-2">
+            <li className="hover-ey !border-r-2">
               <span>enchanting</span>
               <br />
               <span>Yunnan</span>
