@@ -27,7 +27,7 @@ const IcedripAro = ({ iceDripAro, setIceDripAro }) => {
           <h2 className="uppercase tracking-widest pl-12 py-6 text-2xl border-2 border-t-0 border-b-0  border-l-0 border-gray ">
             Ice Drip coffee
           </h2>
-          <div className="grid grid-cols-4  h-full">
+          <div className="grid grid-cols-4  h-[calc(100%-80px)]">
             {/* <div className=" flex flex-col px-7 border-2 border-l-0 border-gray py-14">
               <div className="bg-babycino py-2 px-3 text-center icedrip-tooltip">
                 <p className="text-center text-sm break-words max-w-[150px] font-medium mx-auto ">
