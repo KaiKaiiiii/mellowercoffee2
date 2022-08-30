@@ -10,7 +10,7 @@ module.exports = {
         2: "1px",
       },
       margin: {
-        100: "100px",
+        100: "90px",
       },
 
       colors: {
