@@ -128,7 +128,7 @@ const Icedrip = ({
             </p>
           </div>
           <div
-            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-colom_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-colom_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
             onClick={() => {
               setIceDripGeisha(false);
               setIceDripAro(false);
@@ -154,7 +154,7 @@ const Icedrip = ({
             <p className="tracking-widest text-2xl uppercase">Colombia</p>
           </div>
           <div
-            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-ethi_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-ethi_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
             onClick={() => {
               setIceDripGeisha(false);
               setIceDripAro(false);
@@ -182,7 +182,7 @@ const Icedrip = ({
             </p>
           </div>
           <div
-            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-su_icedrip border-r-0 py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white duration-100 ease-linear cursor-pointer hover:bg-su_icedrip border-r-0 py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
             onClick={() => {
               setIceDripGeisha(false);
               setIceDripAro(false);

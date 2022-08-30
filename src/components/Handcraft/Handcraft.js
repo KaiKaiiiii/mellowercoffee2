@@ -149,7 +149,7 @@ const Handcraft = ({
               sethandcraftEthi(false);
               sethandcraftSu(false);
             }}
-            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-colom_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-colom_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
           >
             <p className="tracking-widest text-2xl uppercase ">Colombia</p>
           </div>
@@ -175,7 +175,7 @@ const Handcraft = ({
               sethandcraftEthi(true);
               sethandcraftSu(false);
             }}
-            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-ethi_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-ethi_icedrip  py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
           >
             <p className="tracking-widest text-2xl uppercase ">
               Ethiopia Yirgacheffe
@@ -203,7 +203,7 @@ const Handcraft = ({
               sethandcraftEthi(false);
               sethandcraftSu(true);
             }}
-            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-su_icedrip border-r-0 py-32 grow  flex  items-center pl-10 border-2 border-l-0 border-b-0  border-gray `}
+            className={`text-black hover:text-white  cursor-pointer duration-100 ease-linear hover:bg-su_icedrip border-r-0 py-32 grow  flex  items-center pl-10 border-2 border-l-0   border-gray `}
           >
             <p className="tracking-widest text-2xl uppercase ">
               Sumatra Mandheling

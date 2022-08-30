@@ -225,14 +225,9 @@ const HomePage = () => {
         <p className="text-2xl font-medium mt-10 tracking-widest text-center">
           choose the origin you want to visit
         </p>
-        <img
-          src="/bean/plane.png"
-          alt=""
-          className="mt-16 mx-auto w-16 home-page_plane"
-        />
       </div>
       <Beans noPlane></Beans>
-      <div className="py-20">
+      <div className="py-20 mb-16">
         <div className="tracking-widest font-medium text-5xl text-center leading-6">
           <h2 className="">Enjoy fascinating coffee flavors</h2>
           <br />
@@ -241,7 +236,7 @@ const HomePage = () => {
           <h2 className=""> just at Mellower Coffee now!</h2>
         </div>
 
-        <img src="/SVG_ICON/star.png" alt="" className="mt-16 mx-auto w-16" />
+        {/* <img src="/SVG_ICON/star.png" alt="" className="mt-16 mx-auto w-16" /> */}
       </div>
       <div className="relative">
         <video
