@@ -51,7 +51,7 @@ const Submenu = ({
           }}
         >
           EXPLORE OUR signature & seasonal beverages
-          <svg
+          {/* <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="#958B8B"
             height="48"
@@ -59,7 +59,7 @@ const Submenu = ({
             className="-rotate-90 group-hover:fill-white"
           >
             <path d="M24 29 13.8 18.8l.8-.8 9.4 9.4 9.4-9.4.8.8Z" />
-          </svg>
+          </svg> */}
         </div>
 
         <div className="flex ">
@@ -272,7 +272,7 @@ const Submenu = ({
             }}
           >
             Discover mellower coffee beans all over the world
-            <svg
+            {/* <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="#958B8B"
               height="48"
@@ -280,7 +280,7 @@ const Submenu = ({
               className="-rotate-90 group-hover:fill-white"
             >
               <path d="M24 29 13.8 18.8l.8-.8 9.4 9.4 9.4-9.4.8.8Z" />
-            </svg>
+            </svg> */}
           </div>
         </Link>
 
@@ -300,7 +300,7 @@ const Submenu = ({
             </li>
           </Link>
           <Link to="/beans/eyunnan">
-            <li className="hover-ey !border-r-2">
+            <li className="hover-ey border-r-2">
               <span>enchanting</span>
               <br />
               <span>Yunnan</span>

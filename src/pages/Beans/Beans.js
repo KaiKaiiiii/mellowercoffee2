@@ -83,7 +83,7 @@ const Beans = ({ noPlane }) => {
         {!noPlane ? (
           <>
             <div className="absolute left-plane top-10 right-5 flex items-center gap-4">
-              <img src="bean/plane.png" alt="" className="w-14 rotate-180 " />
+              {/* <img src="bean/plane.png" alt="" className="w-14 rotate-180 " /> */}
               <span className="text-3xl uppercase">
                 Discover mellower coffee beans all over the world
               </span>
@@ -92,7 +92,7 @@ const Beans = ({ noPlane }) => {
               <span className="text-3xl uppercase">
                 Discover mellower coffee beans all over the world
               </span>
-              <img src="bean/plane.png" alt="" className="w-14  " />
+              {/* <img src="bean/plane.png" alt="" className="w-14  " /> */}
             </div>
           </>
         ) : null}

@@ -101,7 +101,7 @@ const Navigation = () => {
           ></Submenu>
         </ElementFather>
 
-        <li className="px-5 border-b-2 flex items-center justify-center w-[25.2vw]">
+        <li className="px-5 border-b-2 flex items-center justify-center w-[25vw]">
           <img
             src="/SVG_ICON/search.svg"
             alt="search-icon"
